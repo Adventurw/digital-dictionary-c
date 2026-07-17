@@ -14,7 +14,7 @@ This repository has been preserved as part of my programming journey and serves 
 **Semester:** 1st Semester (Bachelor's)  
 **Project Type:** Console Application
 
-> This project is part of my University Archive Series, where I preserve significant academic projects from throughout my bachelor's degree. The original implementation has been retained as closely as possible, with only minor modifications for compatibility and project organization.
+> This project is part of my University Archive Series, where I preserve significant academic projects from throughout my bachelor's degree. The original implementation has been retained as closely as possible in main1.c file, with only minor modifications for compatibility and project organization.
 
 ---
 
@@ -86,8 +86,6 @@ gcc src/main.c -o dictionary
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home Menu
 
 ![Home Menu](assets/screenshots/home-menu.png)
@@ -111,36 +109,6 @@ gcc src/main.c -o dictionary
 ![View Dictionary](assets/screenshots/view-dictionary.png)
 
 ---
-
-## 📸 Screenshots
-
-### Home Menu
-
-![Home Menu](assets/screenshots/home-menu.png)
-
----
-
-### Insert New Word
-
-![Insert Word](assets/screenshots/insert-word.png)
-
----
-
-### Search Word
-
-![Search Word](assets/screenshots/search-word.png)
-
----
-
-### View Dictionary
-
-![View Dictionary](assets/screenshots/view-dictionary.png)
-
----
-
-### Duplicate Detection
-
-![Duplicate Word](assets/screenshots/duplicate-word.png)
 
 ### Smooth Exit
 
